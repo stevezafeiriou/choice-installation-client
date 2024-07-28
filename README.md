@@ -14,6 +14,7 @@
   - [getDominantColor](#getdominantcolor)
 - [Global Styles](#global-styles)
 - [Configuration](#configuration)
+- [Licensing](#licensing)
 
 ## Introduction
 
@@ -166,3 +167,11 @@ export const GlobalStyle = createGlobalStyle`
 ```
 
 By following this documentation, you should be able to set up, run, and deploy the Choice Installation Application effectively. For any issues or further information, please contact the project maintainers.
+
+## Licensing
+
+© 2024 Saphire. All rights reserved.
+
+This application, including its source code and all associated documentation, is proprietary and confidential to Saphire. Unauthorized copying, modification, distribution, or use of this software is strictly prohibited. No part of this software may be reproduced in any form or by any means without the prior written permission of Saphire. For inquiries regarding licensing, please contact info@saphirelabs.com.
+
+For more details, please read the full [License Agreement](./LICENSE).
